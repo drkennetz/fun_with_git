@@ -1,2 +1,3 @@
 file
 this is my different line
+additional changes to file.txt
