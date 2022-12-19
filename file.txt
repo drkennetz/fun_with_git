@@ -1,4 +1,1 @@
-file
-this is my different line
-additional changes to file.txt
-simple change again
+this should be a conflict
