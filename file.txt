@@ -2,3 +2,4 @@ file
 this is my different line
 additional changes to file.txt
 simple change again
+I made a mistake
